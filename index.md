@@ -12,6 +12,10 @@ int main(){
 }
 ```
 
+- [x] Horse
+- [x] Power
+- [ ] Torque
+
 
 
 
@@ -20,3 +24,4 @@ int main(){
 Added Headers
 Added Pictures
 Added CodeBlock
+Added Check List
